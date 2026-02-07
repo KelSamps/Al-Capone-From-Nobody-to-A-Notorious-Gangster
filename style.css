@@ -1,0 +1,95 @@
+body {
+background-color: #c2bebe;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: 20px;
+margin: 20px;
+}
+img.johnny-torrio {
+float: right;
+margin: 0 0 10px 10px;
+width: 400px;
+height: 400px;
+}
+img.mae-and-sonny {
+float: left;
+margin: 0 0 10px 10px;
+width: 400px;
+height: 400px;
+}
+img.big-jim {
+float: right;
+margin: 0 0 10px 10px;
+width: 300px;
+height: 400px;
+}
+img.bugs-moran {
+float: right;
+margin: 0 0 10px 10px;
+width: 300px;
+height: 300px;
+}
+img.hymie-weiss {
+float: left;
+margin: 0 0 10px 10px;
+width: 300px;
+height: 300px;
+}
+img.valentine-day-massacre {
+float: center;
+margin: 0 auto;
+width: 600px;
+height: 400px;
+}
+img.al-capone-mugshot {
+float: left;
+margin: 0 0 10px 10px;
+width: 400px;
+height: 300px;
+}
+img.al-capone-1939 {
+float: right;
+margin: 0 0 10px 10px;
+width: 400px;
+height: 400px;
+}
+img.al-capone-ending {
+float: center;
+margin: 0 auto;
+width: 600px;
+height: 400px;
+}
+h1 {
+color: #000000;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+text-align: center;
+}
+h2 {
+color: #000000; 
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p { 
+color: #000000;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+line-height: 1.5;
+}
+hr {
+border: 0;
+height: 1px;
+background-color: #000000;
+margin: 20px 0;
+}
+img {
+display: block;
+margin-left: auto;  
+margin-right: auto;
+}
+li {
+color: #000000;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+list-style-type: disc;
+margin-left: 20px;
+}
+a {
+color: #000000;
+text-decoration: underline;
+}
